@@ -19,8 +19,8 @@
 执行 ./clash -d . 即可启动 Clash，同时启动 HTTP 代理和 Socks5 代理。
 如提示权限不足，请执行 chmod +x clash
 ## Features
-
-在终端 cd 到 Clash 二进制文件所在的目录，执行 wget -O config.yml https://www.paofusub.com/link/0hh7dz3V6DH6Otbi?clash=1&log-level=info 下载 Clash 配置文件
+https://github.com/Dreamacro/maxmind-geoip/releases
+在终端 cd 到 Clash 二进制文件所在的目录，执行 wget -O config.yaml https://www.paofusub.com/link/0hh7dz3V6DH6Otbi?clash=1&log-level=info 下载 Clash 配置文件
 
 - Local HTTP/HTTPS/SOCKS server with authentication support
 - VMess, Shadowsocks, Trojan, Snell protocol support for remote connections
